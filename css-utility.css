@@ -1,0 +1,15 @@
+.u-non-draggable {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.u-display-none {
+  display: none;
+}
+.u-text-bold {
+  font-weight: 600;
+}
+.u-text-margin-left-small {
+  margin-left: 1rem;
+}
